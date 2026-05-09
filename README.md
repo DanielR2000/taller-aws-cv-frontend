@@ -23,4 +23,4 @@ El proyecto implementa una arquitectura *serverless* segura y de alta disponibil
 * **AWS Cloud:** S3, CloudFront, Cognito, IAM.
 
 ---
-*Desarrollado por [Tu Nombre] - 2026*
+*Desarrollado por Daniel Reinosa Corps - 2026*
